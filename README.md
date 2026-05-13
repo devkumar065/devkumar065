@@ -72,11 +72,11 @@ Currently focused on improving my skills in secure coding, penetration testing, 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=devkumar065&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=devkumar065&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkumar065&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=devkumar065&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://streak-stats.demolab.com?user=devkumar065&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://streak-stats-fast.demolab.com?user=devkumar065&theme=tokyonight&hide_border=true"/>
 
 </div>
 
