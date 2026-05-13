@@ -76,7 +76,7 @@ Currently focused on improving my skills in secure coding, penetration testing, 
 
 <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=devkumar065&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://streak-stats-fast.demolab.com?user=devkumar065&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://streak-stats.demolab.com?user=devkumar065&theme=tokyonight&hide_border=true"/>
 
 </div>
 
