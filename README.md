@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0d1117&height=220&section=header&text=Dev%20Kumar&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20GLA%20University&descSize=19&descAlignY=60&descColor=8b949e&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=2nd+Year+B.Tech+CSE+%7C+Cybersecurity;Penetration+Tester+%7C+Web+Security+Researcher;Full-Stack+Developer+%7C+Open+Source+Enthusiast;%22Build+it.+Break+it.+Secure+it.+Repeat.%22" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=3rd+Year+B.Tech+CSE+%7C+Cybersecurity;Penetration+Tester+%7C+Web+Security+Researcher;Full-Stack+Developer+%7C+Open+Source+Enthusiast;%22Build+it.+Break+it.+Secure+it.+Repeat.%22" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -28,13 +28,13 @@
 
 <br/>
 
-## 👨‍💻 &nbsp;About Me
+##  &nbsp;About Me
 
 ```yaml
 Name        : Dev Kumar
 Role        : Cybersecurity Student  +  Full-Stack Developer
 University  : GLA University, Mathura  ·  B.Tech CSE (Cybersecurity)
-Year        : 2nd Year Undergraduate
+Year        : 3rd Year Undergraduate
 Location    : Mathura, UP  (Hometown: Arrah, Bihar)
 Domains     : Offensive Security  ·  Web Security  ·  System Engineering
 Currently   : Web AppSec · Network Security · DSA · Linux
@@ -48,11 +48,11 @@ Open To     : Internships  ·  CTFs  ·  Collaboration  ·  Open Source
 
 <br/>
 
-## 🛡️ &nbsp;Skills & Arsenal
+##  &nbsp;Skills & Arsenal
 
 <div align="center">
 
-#### ⚔️ Cybersecurity
+####  Cybersecurity
 
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
@@ -64,7 +64,7 @@ Open To     : Internships  ·  CTFs  ·  Collaboration  ·  Open Source
 ![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-007FFF?style=for-the-badge&logo=airplayaudio&logoColor=white)
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
 
-#### 🌐 Frontend
+####  Frontend
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -72,13 +72,13 @@ Open To     : Internships  ·  CTFs  ·  Collaboration  ·  Open Source
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
-#### 🗄️ Backend & Database
+####  Backend & Database
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-#### 🔧 Tools & Platforms
+####  Tools & Platforms
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -101,7 +101,7 @@ Open To     : Internships  ·  CTFs  ·  Collaboration  ·  Open Source
 
 <br/>
 
-## 📊 &nbsp;GitHub Stats
+##  &nbsp;GitHub Stats
 
 <div align="center">
 
@@ -127,7 +127,7 @@ Open To     : Internships  ·  CTFs  ·  Collaboration  ·  Open Source
 
 <br/>
 
-## 🐍 &nbsp;Contribution Graph
+##  &nbsp;Contribution Graph
 
 <div align="center">
 
@@ -149,7 +149,7 @@ Open To     : Internships  ·  CTFs  ·  Collaboration  ·  Open Source
 
 <br/>
 
-## 🎯 &nbsp;Current Focus
+##  &nbsp;Current Focus
 
 <div align="center">
 
@@ -170,7 +170,7 @@ Open To     : Internships  ·  CTFs  ·  Collaboration  ·  Open Source
 
 <br/>
 
-## 📬 &nbsp;Let's Connect
+##  &nbsp;Let's Connect
 
 <div align="center">
 
@@ -197,10 +197,10 @@ I'm always open to discussing cybersecurity, development, open-source collaborat
 <br/><br/>
 
 ```
- ✉   mr.devyadav065@gmail.com
- 📍  Mathura, Uttar Pradesh  (Currently)
- 🏠  Arrah, Bhojpur, Bihar   (Hometown)
- 🤝  Open to: Collaboration · Internships · CTFs · Bug Bounty
+    mr.devyadav065@gmail.com
+   Mathura, Uttar Pradesh  (Currently)
+   Arrah, Bhojpur, Bihar   (Hometown)
+   Open to: Collaboration · Internships · CTFs · Bug Bounty
 ```
 
 </div>
@@ -212,7 +212,7 @@ I'm always open to discussing cybersecurity, development, open-source collaborat
 <div align="center">
   <img src="https://img.shields.io/badge/Thanks%20for%20Visiting!-0d1117?style=for-the-badge&logo=githubsponsors&logoColor=58a6ff" />
   <br/><br/>
-  <sub>⭐ Star repositories if you find them useful &nbsp;|&nbsp; 🤝 Always open to collaborating &nbsp;|&nbsp; 🔒 Security is not optional</sub>
+  <sub> Star repositories if you find them useful &nbsp;|&nbsp;  Always open to collaborating &nbsp;|&nbsp; 🔒 Security is not optional</sub>
 </div>
 
 <!-- ============================================================
