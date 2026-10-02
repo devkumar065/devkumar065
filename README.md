@@ -1,6 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0d1117&height=220&section=header&text=Dev%20Kumar&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20GLA%20University&descSize=19&descAlignY=60&descColor=8b949e&animation=fadeIn" />
+<img width="100%" src="./Dev%20Kumar_%20Code%20Beyond%20Limits.png" alt="Dev Kumar — Cybersecurity, Full-Stack Developer, Student, Builder" />
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0d1117&height=160&section=header&text=Dev%20Kumar&fontSize=64&fontColor=ffffff&fontAlignY=42&desc=Cybersecurity%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20GLA%20University&descSize=18&descAlignY=68&descColor=8b949e&animation=fadeIn" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=3rd+Year+B.Tech+CSE+%7C+Cybersecurity;Penetration+Tester+%7C+Web+Security+Researcher;Full-Stack+Developer+%7C+Open+Source+Enthusiast;%22Build+it.+Break+it.+Secure+it.+Repeat.%22" alt="Typing SVG" />
 
@@ -87,7 +91,7 @@ Open To     : Internships  ·  CTFs  ·  Collaboration  ·  Open Source
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-#### 🧠 DSA & Problem Solving
+#### DSA & Problem Solving
 
 ![Data Structures](https://img.shields.io/badge/Data%20Structures-FF6F00?style=for-the-badge&logo=thealgorithms&logoColor=white)
 ![Algorithms](https://img.shields.io/badge/Algorithms-FF6F00?style=for-the-badge&logo=leetcode&logoColor=white)
@@ -155,12 +159,12 @@ Open To     : Internships  ·  CTFs  ·  Collaboration  ·  Open Source
 
 | Domain | What I'm Learning |
 |:---:|:---|
-| 🔴 **Web App Security** | OWASP Top 10 · BurpSuite · XSS · SQLi · CSRF |
-| 🔵 **Full-Stack Dev** | HTML/CSS/JS · MongoDB · Supabase · REST APIs |
-| 🟢 **Network Security** | Wireshark · Netcat · TCP/IP · Protocols |
-| 🟡 **DSA & Algorithms** | Java · Problem Solving · Competitive Programming |
-| 🟣 **Linux & SysAdmin** | Kali Linux · Bash Scripting · Automation |
-| 🟠 **Penetration Testing** | Recon · Exploitation · Report Writing |
+| **Web App Security** | OWASP Top 10 · BurpSuite · XSS · SQLi · CSRF |
+| **Full-Stack Dev** | HTML/CSS/JS · MongoDB · Supabase · REST APIs |
+| **Network Security** | Wireshark · Netcat · TCP/IP · Protocols |
+| **DSA & Algorithms** | Java · Problem Solving · Competitive Programming |
+| **Linux & SysAdmin** | Kali Linux · Bash Scripting · Automation |
+| **Penetration Testing** | Recon · Exploitation · Report Writing |
 
 </div>
 
@@ -210,36 +214,7 @@ I'm always open to discussing cybersecurity, development, open-source collaborat
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0d1117&height=120&section=footer&text=Building%20%C2%B7%20Breaking%20%C2%B7%20Securing&fontSize=20&fontColor=58a6ff&fontAlignY=65&animation=fadeIn" />
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Thanks%20for%20Visiting!-0d1117?style=for-the-badge&logo=githubsponsors&logoColor=58a6ff" />
+  <img src="https://img.shields.io/badge/Thanks%20for%20Visiting!-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff" />
   <br/><br/>
-  <sub> Star repositories if you find them useful &nbsp;|&nbsp;  Always open to collaborating &nbsp;|&nbsp; 🔒 Security is not optional</sub>
+  <sub> Star repositories if you find them useful &nbsp;|&nbsp;  Always open to collaborating &nbsp;|&nbsp; Security is not optional</sub>
 </div>
-
-<!-- ============================================================
-     SNAKE SETUP — One time only, takes 2 minutes:
-     Create .github/workflows/snake.yml and paste:
-
-     name: Generate Snake
-     on:
-       schedule:
-         - cron: "0 */12 * * *"
-       workflow_dispatch:
-       push:
-         branches: [main]
-     jobs:
-       generate:
-         runs-on: ubuntu-latest
-         steps:
-           - uses: Platane/snk/svg-only@v3
-             with:
-               github_user_name: devkumar065
-               outputs: |
-                 dist/github-contribution-grid-snake.svg
-                 dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-           - uses: crazy-max/ghaction-github-pages@v3.1.0
-             with:
-               target_branch: output
-               build_dir: dist
-             env:
-               GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-     ============================================================ -->
