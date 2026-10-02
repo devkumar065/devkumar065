@@ -1,14 +1,8 @@
 <div align="center">
 
 <img width="100%" src="./Dev%20Kumar_%20Code%20Beyond%20Limits.png" alt="Dev Kumar — Cybersecurity, Full-Stack Developer, Student, Builder" />
-
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0d1117&height=160&section=header&text=Dev%20Kumar&fontSize=64&fontColor=ffffff&fontAlignY=42&desc=Cybersecurity%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20GLA%20University&descSize=18&descAlignY=68&descColor=8b949e&animation=fadeIn" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=3rd+Year+B.Tech+CSE+%7C+Cybersecurity;Penetration+Tester+%7C+Web+Security+Researcher;Full-Stack+Developer+%7C+Open+Source+Enthusiast;%22Build+it.+Break+it.+Secure+it.+Repeat.%22" alt="Typing SVG" />
-
-<br/><br/>
+<br>
+</br>
 
 <a href="https://linkedin.com/in/devkumar065"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 &nbsp;
@@ -17,8 +11,6 @@
 <a href="https://instagram.com/dev__cyber"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 &nbsp;
 <a href="mailto:mr.devyadav065@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-
-<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=devkumar065&style=flat-square&color=58a6ff&label=Profile+Views" />
 &nbsp;
@@ -30,9 +22,8 @@
 
 ---
 
-<br/>
-
 ##  &nbsp;About Me
+
 
 ```yaml
 Name        : Dev Kumar
@@ -45,12 +36,7 @@ Currently   : Web AppSec · Network Security · DSA · Linux
 Philosophy  : "Build it. Break it. Secure it. Repeat."
 Open To     : Internships  ·  CTFs  ·  Collaboration  ·  Open Source
 ```
-
-<br/>
-
 ---
-
-<br/>
 
 ##  &nbsp;Skills & Arsenal
 
@@ -99,59 +85,9 @@ Open To     : Internships  ·  CTFs  ·  Collaboration  ·  Open Source
 
 </div>
 
-<br/>
-
 ---
 
-<br/>
 
-##  &nbsp;GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/devkumar065">
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=devkumar065&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&border_radius=12" />
-  &nbsp;
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=devkumar065&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&border_radius=12" />
-</a>
-
-<br/><br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=devkumar065&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&border_radius=12" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=devkumar065&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7" />
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-##  &nbsp;Contribution Graph
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devkumar065/devkumar065/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devkumar065/devkumar065/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/devkumar065/devkumar065/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</picture>
-
-<br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=devkumar065&bg_color=0d1117&color=58a6ff&line=1a4a8a&point=58a6ff&area=true&area_color=0a2540&hide_border=true&border_radius=12" />
-
-</div>
-
-<br/>
-
----
-
-<br/>
 
 ##  &nbsp;Current Focus
 
@@ -168,11 +104,7 @@ Open To     : Internships  ·  CTFs  ·  Collaboration  ·  Open Source
 
 </div>
 
-<br/>
-
 ---
-
-<br/>
 
 ##  &nbsp;Let's Connect
 
@@ -199,22 +131,3 @@ I'm always open to discussing cybersecurity, development, open-source collaborat
 </a>
 
 <br/><br/>
-
-```
-    mr.devyadav065@gmail.com
-   Mathura, Uttar Pradesh  (Currently)
-   Arrah, Bhojpur, Bihar   (Hometown)
-   Open to: Collaboration · Internships · CTFs · Bug Bounty
-```
-
-</div>
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0d1117&height=120&section=footer&text=Building%20%C2%B7%20Breaking%20%C2%B7%20Securing&fontSize=20&fontColor=58a6ff&fontAlignY=65&animation=fadeIn" />
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Thanks%20for%20Visiting!-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff" />
-  <br/><br/>
-  <sub> Star repositories if you find them useful &nbsp;|&nbsp;  Always open to collaborating &nbsp;|&nbsp; Security is not optional</sub>
-</div>
