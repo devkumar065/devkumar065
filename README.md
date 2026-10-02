@@ -8,7 +8,7 @@
 &nbsp;
 <a href="https://github.com/devkumar065"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
 &nbsp;
-<a href="https://instagram.com/dev__cyber"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+<a href="https://instagram.com/devkumar_065"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 &nbsp;
 <a href="mailto:mr.devyadav065@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 
@@ -122,7 +122,7 @@ I'm always open to discussing cybersecurity, development, open-source collaborat
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://instagram.com/dev__cyber">
+<a href="https://instagram.com/devkumar_065">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 &nbsp;
